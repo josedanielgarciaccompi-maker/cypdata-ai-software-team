@@ -1,10 +1,10 @@
-Empresa: Kayak Rafting Peru Adventures
+Empresa: Rafting Peru & kayak Adventures
 
 Sector: Turismo de aventura
 
 Objetivo: Brindar experiencias únicas de kayak y rafting en los ríos más 
-emblemáticos del Perú, conectando a los viajeros con la naturaleza y la 
-adrenalina de manera segura y profesional.
+emblemáticos del Perú, conectando a los viajeros con la naturaleza, la aventura y la 
+adrenalina de manera segura, profesional y certificada.
 
 Servicios:
 - Rafting en Río Urubamba (Cusco) — aguas rápidas clase II a IV
