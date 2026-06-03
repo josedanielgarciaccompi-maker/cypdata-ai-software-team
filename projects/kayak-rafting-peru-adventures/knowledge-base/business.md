@@ -17,15 +17,16 @@ Servicios:
 - Hospedaje opcional según el paquete contratado (incluido en paquetes multi-día)
 - Alquiler y provisión de equipos de seguridad
 
-Ventas: 
-Venta de equipos especializados para deportes de aventura y aguas rápidas:
+Venta e importación de equipos especializados:
 - Kayaks
 - Remos
-- Chalecos salvavidas
 - Cascos
-- Bolsas estancas
+- Chalecos salvavidas
 - Equipos de rescate acuático
+- Bolsas estancas
 - Accesorios para rafting y kayak
+
+Los equipos se comercializan bajo pedido y están sujetos a disponibilidad de importación.
 
 Diferenciadores:
 - Experiencia 360°: formación, expediciones, alquiler de equipos, venta de equipamiento especializado, alimentación y hospedaje
@@ -33,7 +34,7 @@ Diferenciadores:
 - Guías nacionales e internacionales con certificaciones de seguridad y rescate acuático
 - Paquetes turísticos diseñados para viajeros nacionales e internacionales
 - Acceso a experiencias exclusivas en destinos naturales y culturales emblemáticos del Perú
-- Acceso a equipamiento especializado de rafting y kayak recomendado por instructores y guías certificados
+- Acceso a equipamiento especializado de rafting y kayak disponible para importación según requerimientos del cliente
 
 Mercado objetivo:
 - Familias
@@ -51,7 +52,7 @@ País: Perú
 Sedes operativas: Cusco, Lima, Arequipa, Río Marañón (norte del Perú)
 
 Canales:
-- Sitio web propio con reservas en línea y catálogo de equipos
+- Sitio web propio con reservas en línea y catálogo de equipos para importación bajo pedido
 - Agencias de viaje y operadoras turísticas (B2B)
 - Plataformas como Viator, GetYourGuide, TripAdvisor
 - Redes sociales (Instagram, Facebook, TikTok)
