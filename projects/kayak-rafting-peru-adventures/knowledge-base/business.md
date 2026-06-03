@@ -2,9 +2,7 @@ Empresa: Rafting Peru & kayak Adventures
 
 Sector: Turismo de aventura
 
-Objetivo: Brindar experiencias únicas de kayak y rafting en los ríos más 
-emblemáticos del Perú, conectando a los viajeros con la naturaleza, la aventura y la 
-adrenalina de manera segura, profesional y certificada.
+Objetivo: Brindar experiencias únicas de kayak y rafting en los ríos más emblemáticos del Perú, conectando a los viajeros con la naturaleza, la aventura y la adrenalina de manera segura, profesional y certificada, complementadas con servicios de formación, alquiler y comercialización de equipos especializados para deportes de aguas rápidas.
 
 Servicios:
 - Rafting en Río Urubamba (Cusco) — aguas rápidas clase II a IV
@@ -19,12 +17,23 @@ Servicios:
 - Hospedaje opcional según el paquete contratado (incluido en paquetes multi-día)
 - Alquiler y provisión de equipos de seguridad
 
+Ventas: 
+Venta de equipos especializados para deportes de aventura y aguas rápidas:
+- Kayaks
+- Remos
+- Chalecos salvavidas
+- Cascos
+- Bolsas estancas
+- Equipos de rescate acuático
+- Accesorios para rafting y kayak
+
 Diferenciadores:
-- Experiencia 360°: desde la formación (cursos) hasta el aventura, la comida y el alojamiento
+- Experiencia 360°: formación, expediciones, alquiler de equipos, venta de equipamiento especializado, alimentación y hospedaje
 - Cobertura en los principales ríos de aventura del Perú
 - Guías nacionales e internacionales con certificaciones de seguridad y rescate acuático
 - Paquetes turísticos diseñados para viajeros nacionales e internacionales
 - Acceso a experiencias exclusivas en destinos naturales y culturales emblemáticos del Perú
+- Acceso a equipamiento especializado de rafting y kayak recomendado por instructores y guías certificados
 
 Mercado objetivo:
 - Familias
@@ -35,12 +44,14 @@ Mercado objetivo:
 - Turistas extranjeros que visitan el Perú
 - Grupos corporativos para team building
 - Agencias de viaje y operadoras turísticas como canal B2B
+- Practicantes de kayak y rafting que buscan equipamiento especializado
+- Clubes y escuelas de deportes de aventura
 
 País: Perú
 Sedes operativas: Cusco, Lima, Arequipa, Río Marañón (norte del Perú)
 
 Canales:
-- Sitio web propio con reservas en línea
+- Sitio web propio con reservas en línea y catálogo de equipos
 - Agencias de viaje y operadoras turísticas (B2B)
 - Plataformas como Viator, GetYourGuide, TripAdvisor
 - Redes sociales (Instagram, Facebook, TikTok)
