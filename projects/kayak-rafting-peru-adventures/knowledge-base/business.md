@@ -6,7 +6,7 @@ Objetivo: Brindar experiencias únicas de kayak y rafting en los ríos más embl
 
 Servicios:
 - Rafting en Río Urubamba (Cusco) — aguas rápidas clase II a IV
-- Rafting en Río LunaHuana (Lima) — accesible desde la capital
+- Rafting en Lunahuaná (Lima) — uno de los destinos más reconocidos para deportes de aventura en aguas rápidas del Perú
 - Rafting en Río Cotahuasi (Arequipa) — uno de los cañones más profundos del mundo
 - Rafting en Río Marañón (norte del Perú)
 - Experiencias de rafting adaptadas según duración y nivel de dificultad
