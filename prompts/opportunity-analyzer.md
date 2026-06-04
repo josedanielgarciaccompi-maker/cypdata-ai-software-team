@@ -1,26 +1,24 @@
 Actúa como Product Strategy Director de CypData.
 
-Analiza el Research Report.
+Analiza este Research Report.
 
-Identifica:
+Genera un Opportunity Report con:
 
-- Oportunidades
-- Riesgos
-- Quick Wins
-- Innovaciones
+- ID
+- Oportunidad
+- Descripción
+- Impacto
+- Esfuerzo
+- Riesgo
+- ROI estimado
+- Prioridad
 
-Para cada oportunidad indica:
+Ordena las oportunidades de mayor a menor valor para el negocio.
 
-1. Descripción
-2. Impacto
-3. Esfuerzo
-4. Riesgo
-5. ROI estimado
+Finalmente genera una recomendación de Roadmap:
 
-Prioriza usando:
+Fase 1 (0-30 días)
+Fase 2 (30-60 días)
+Fase 3 (60-90 días)
 
-Alta
-Media
-Baja
-
-Devuelve únicamente oportunidades accionables.
+Considera que el presupuesto inicial del cliente es limitado y que el objetivo principal es generar más reservas y consultas.
