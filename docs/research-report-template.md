@@ -1,71 +1,19 @@
-# Research Report
+1. Resumen Ejecutivo
 
-Fecha:
+2. Objetivos de la Investigación
 
-Sector:
+3. Hallazgos del Negocio
 
-Cliente:
+4. Hallazgos del Mercado
 
----
+5. Hallazgos de la Competencia
 
-## Resumen Ejecutivo
+6. Hallazgos de Clientes
 
----
+7. Hallazgos Tecnológicos
 
-## Hallazgos Principales
+8. Riesgos Identificados
 
-### Hallazgo 1
+9. Oportunidades Detectadas
 
-Descripción
-
-Impacto
-
-Urgencia
-
----
-
-### Hallazgo 2
-
-Descripción
-
-Impacto
-
-Urgencia
-
----
-
-## Competencia
-
----
-
-## Tendencias
-
----
-
-## Oportunidades
-
----
-
-## Riesgos
-
----
-
-## Acciones Recomendadas
-
-### Acción 1
-
-Prioridad:
-Alta
-
-Impacto:
-Alto
-
-Esfuerzo:
-Bajo
-
-ROI:
-Alto
-
----
-
-## Próximos pasos
+10. Conclusiones
