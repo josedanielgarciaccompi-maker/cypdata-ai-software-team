@@ -11,7 +11,7 @@ Fortalezas:
 - Variedad de actividades: rafting, canopy, rappel, cuatrimotos
 
 Debilidades:
-- Operación limitada a un solo destino (Río Cañete / Lunahuaná)
+- Operación limitada a un solo destino (Río en Lunahuaná)
 - No ofrecen hospedaje propio ni cursos de kayak/rafting estructurados
 - Poca presencia en mercado extranjero
 
@@ -22,7 +22,7 @@ Funcionalidades:
 - Actividades complementarias (canopy, rappel, paseos a caballo)
 
 Observaciones:
-Competidor directo en el segmento del Río Cañete. Su ventaja es la 
+Competidor directo en el segmento del Río en LunaHuana. Su ventaja es la 
 proximidad a Lima y el posicionamiento familiar. Kayak Rafting Peru 
 Adventures puede diferenciarse por cobertura multi-destino y paquetes 
 todo incluido con hospedaje y alimentación.
@@ -44,7 +44,7 @@ Fortalezas:
 
 Debilidades:
 - Enfoque premium/lujo, precios más elevados
-- No cubre el Río Cañete ni la región de Lima
+- No cubre el Río en LunaHuana ni la región de Lima
 - Menos accesible para el turista nacional de presupuesto medio
 
 Funcionalidades:
@@ -108,13 +108,13 @@ Fortalezas:
 - Horario extendido todos los días (lunes a domingo, 9am–6pm)
 
 Debilidades:
-- Operación limitada a un solo destino: Lunahuaná (Río Cañete)
+- Operación limitada a un solo destino: Lunahuaná (Río en LunaHuana)
 - No ofrecen cursos de kayak/rafting, hospedaje ni alimentación incluida
 - Sin cobertura en Cusco ni Arequipa
 - Empresa más pequeña, posiblemente con menor capacidad de grupos grandes
 
 Funcionalidades:
-- Rafting / canotaje en el Río Cañete
+- Rafting / canotaje en el Río en LunaHuana
 - Zip line / canopy
 - Sky Bike (bicicleta aérea) — actividad diferenciada
 - Puente tibetano y campo de cuerdas altas
