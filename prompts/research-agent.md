@@ -30,7 +30,7 @@ Recibirás información proveniente de:
 
 business.md
 competitors.md
-* customers.md
+customers.md
 * technology.md
 * ideas.md
 
