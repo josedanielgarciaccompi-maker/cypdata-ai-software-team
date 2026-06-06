@@ -130,3 +130,80 @@ tanto para el turista nacional como extranjero. Sin embargo, sigue
 limitado a Lunahuaná. Kayak Rafting Peru Adventures puede diferenciarse 
 con cobertura multi-destino (Cusco, Arequipa, Lima) y una propuesta 
 todo incluido con cursos, hospedaje y alimentación.
+
+# Competidor 5
+
+Nombre: SierraRios
+
+Sitio web: sierrarios.org
+
+Tipo: Organización sin fines de lucro de conservación de ríos (con
+brazo operador de expediciones). Base en EE.UU./México, con operación
+en Perú. Competidor indirecto pero directamente relevante en el
+segmento de expedición.
+
+Fortalezas:
+- Opera expediciones en el Río Marañón ("Grand Canyon of the Amazon")
+  y en el Cotahuasi — justo los destinos diferenciadores de RPKA
+- Autoridad y prestigio internacional: su fundador (Rocky Contos)
+  descubrió la fuente más distante del Amazonas, con cobertura en
+  National Geographic, Outside, Canoe & Kayak, Fox News
+- Guías de altísimo nivel (clase V), bilingües, con certificación
+  Swiftwater Rescue Pro y Wilderness First Responder
+- Vínculo con guías peruanos de primer nivel (Pedro Peña, nacido en
+  Lunahuaná; Fico Gallese de Cusco; Julio Baca)
+- Fuerte narrativa de conservación (campaña "Save Rio Marañón" contra
+  las represas), que conecta con el turista de valores y prensa
+- Contenido extenso: guías de río, mapas topográficos, fotos, films,
+  artículos, historial detallado de descensos
+- Servicio de "outfitting" para grupos privados y experimentados
+  (alquiler de equipo, comida, shuttle, logística)
+- Venta y alquiler de equipos (rafts for sale, rentals) — coincide con
+  la línea de equipos de RPKA
+- Cobertura global (México, Zambezi, Blue Nile, Argentina) que refuerza
+  su prestigio
+
+Debilidades:
+- Orientación casi exclusiva al turista extranjero angloparlante y
+  experimentado; barrera para el turista nacional y el principiante
+- Expediciones largas y de nicho (11-14 días, clase III-IV); no apto
+  para escapadas cortas, familias casuales ni el día completo
+- Modelo de "contribución" sin fines de lucro y reserva por email, no
+  reserva online inmediata
+- Sitio web muy anticuado (generado en Adobe GoLive, tablas, última
+  revisión visible 12/2/25); UX/UI obsoleta pese al gran contenido
+- Sin presencia digital moderna ni conversión rápida (sin WhatsApp,
+  sin pasarela de pago en línea visible)
+- Foco en conservación por encima de la venta; no es un operador
+  comercial convencional
+- Pago por depósito y saldo vía email; fricción alta de reserva
+
+Funcionalidades:
+- Expediciones guiadas multi-día en Marañón (Central + Lower Grand
+  Canyon, ~149 km y ~143 km) y Cotahuasi (lanzamiento Abr 2026)
+- Tramos por nivel: Source, Headwaters, Upper GC, Inner Gorge, Central
+  GC, Lower GC, Jungle Pongos
+- Opción de trip guiado completo o servicio de outfitting para grupos
+  privados experimentados
+- Venta de rafts, alquiler de equipos, servicio de armado/logística
+- Calendario de lanzamientos por fecha; reserva por email + depósito
+- Versión en español de algunas páginas de expedición
+- Lista de correo con tarifas especiales
+- Biblioteca de fotos, mapas topográficos, artículos y films
+
+Observaciones:
+SierraRios es un competidor atípico pero estratégicamente importante:
+es el único actor identificado que opera comercialmente en el Río
+Marañón —el destino que considerábamos sin competencia digital— y
+también en el Cotahuasi. Sin embargo, su naturaleza (ONG de
+conservación, expediciones largas de nicho para extranjeros
+experimentados, web obsoleta y reserva por email) lo sitúa en un
+segmento muy distinto al de RPKA. No compite por el turista nacional,
+familiar ni de escapada corta. Para RPKA representa a la vez una
+referencia de autoridad y narrativa de conservación a observar, y una
+señal de que el Marañón sí tiene un operador internacional posicionado
+—aunque sin presencia digital moderna ni orientación al mercado
+local—. RPKA puede diferenciarse con reserva online, atención en
+español/WhatsApp, paquetes accesibles de menor duración y cobertura
+multi-destino, mientras observa la narrativa de conservación de
+SierraRios como posible eje de contenido y posicionamiento.
