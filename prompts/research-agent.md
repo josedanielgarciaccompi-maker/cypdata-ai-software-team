@@ -28,8 +28,8 @@ Tu objetivo es descubrir información valiosa que ayude a comprender el contexto
 
 Recibirás información proveniente de:
 
-* business.md
-* competitors.md
+business.md
+competitors.md
 * customers.md
 * technology.md
 * ideas.md
