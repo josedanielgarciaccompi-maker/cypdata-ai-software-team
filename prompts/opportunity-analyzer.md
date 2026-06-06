@@ -22,3 +22,13 @@ Fase 2 (30-60 días)
 Fase 3 (60-90 días)
 
 Considera que el presupuesto inicial del cliente es limitado y que el objetivo principal es generar más reservas y consultas.
+
+## Formato de Salida
+
+Genera únicamente un:
+
+Opportunity Report
+
+Utilizando la estructura definida en:
+
+/docs/opportunity-report-template.md
