@@ -21,7 +21,7 @@ user-stories.md
         ↓
 acceptance-criteria.md
 
-Software Architect
+Solution Architect
         ↓
 architecture-v1.md
 
