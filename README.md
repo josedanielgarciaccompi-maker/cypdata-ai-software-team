@@ -2,6 +2,7 @@
 Permitir que CypData desarrolle software y automatizaciones utilizando un equipo de agentes especializados coordinados desde un único panel.
 
 
+
 Research Agent
         ↓
 research-report.md
@@ -27,6 +28,13 @@ architecture-v1.md
 Technical Architect
         ↓
 technical-architecture-v1.md
+
+UX/UI Designer
+        ↓
+ui-specification.md
+user-flows.md
+wireframes.md
+design-system.md
 
 Domain Model Agent
         ↓
@@ -68,10 +76,11 @@ Sprint Planner
         ↓
 sprint-backlog.md
 
+Database Migration Agent
 Backend Developer Agent
 Frontend Developer Agent
-Database Migration Agent
 
 QA Agent
         ↓
-release
+
+Release
